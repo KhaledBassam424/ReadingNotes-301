@@ -7,8 +7,8 @@
 | name   |      link      |
 |----------|:-------------:|
 | class01 |  [clickhere](https://khaledbassam424.github.io/ReadingNotes-301/class01) |
-| class02 |  [clickhere]() |
-| class03 |  [clickhere]() |
+| class02 |  [clickhere](https://khaledbassam424.github.io/ReadingNotes-301/class02) |
+| class03 |  [clickhere](https://khaledbassam424.github.io/ReadingNotes-301/class03) |
 | class04 |  [clickhere]() |
 | class05 |  [clickhere]() |
 | class06 |  [clickhere]() |
