@@ -9,7 +9,7 @@
 | class01 |  [clickhere](https://khaledbassam424.github.io/ReadingNotes-301/class01) |
 | class02 |  [clickhere](https://khaledbassam424.github.io/ReadingNotes-301/class02) |
 | class03 |  [clickhere](https://khaledbassam424.github.io/ReadingNotes-301/class03) |
-| class04 |  [clickhere]() |
+| class04 |  [clickhere](https://khaledbassam424.github.io/ReadingNotes-301/class04) |
 | class05 |  [clickhere]() |
 | class06 |  [clickhere]() |
 | class07 |  [clickhere]() |
