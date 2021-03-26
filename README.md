@@ -1,6 +1,11 @@
-# ReadingNotes-301
+# ReadingNotes
 
-## Code 301 - Intermediate Software Development
+*This is the container of all links which would take you to different reading sections of 301 course*
+
+# Code 102 - Intro to Software Development
+# Code 201 - Foundations of Software Development
+# Code 301 - Intermediate Software Development
+# Code 401 - Advanced Software Development
 
 *This is the container of all links which would take you to different reading sections of 301 course*
 
