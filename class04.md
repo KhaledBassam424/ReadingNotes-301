@@ -1,8 +1,10 @@
 # CSS Grid Layout : 
 
-CSS Grid Layout excels at dividing a page into major regions or defining the relationship in terms of size, position, and layer, between parts of a control built from HTML primitives.
+css grid divide our page into many equal or unequal parts based on instructions given to it.
 
-Like tables, grid layout enables an author to align elements into columns and rows. However, many more layouts are either possible or easier with CSS grid than they were with tables. For example, a grid container's child elements could position themselves so they actually overlap and layer, similar to CSS positioned elements. 
+it divides the page in terms of size, position, and layer, between parts of a control built from HTML primitives.
+
+Like tables, grid layout enables to align elements into columns and rows. However, many more layouts are either possible or easier with CSS grid than they were with tables. For example, a grid container's child elements could position themselves so they actually overlap and layer, similar to CSS positioned elements. 
 
 > Example on usage grid : 
 
@@ -38,7 +40,7 @@ Like tables, grid layout enables an author to align elements into columns and ro
 }
 ```
 
-> Grid layout way has different which methods can be applicable : 
+> Grid layout way has different methods can be applicable : 
 
 
 1. grid-area
@@ -71,7 +73,7 @@ Like tables, grid layout enables an author to align elements into columns and ro
 
 > A grid column :
 
-is a vertical track in a CSS Grid Layout, and is the space between two vertical grid lines. It is defined by the grid-template-columns property or in the shorthand grid or grid-template properties.
+is a vertical track in a CSS Grid Layout, and it defines the space between two vertical grid lines. It is defined by the grid-template-columns property or in the shorthand grid or grid-template properties.
 
 In addition, columns may be created in the implicit grid when items are placed outside of columns created in the explicit grid. These columns will be auto-sized by default, or can have a size specified with the grid-auto-columns property.
 
