@@ -1,26 +1,33 @@
 # Mustache:
 
-Mustache is a logic-less template syntax. It can be used for HTML, config files, source code — anything. It works by expanding tags in a template using values provided in a hash or object.
+Mustache is a template where we can use it inside Html as a tags instead of 
+
+writing many orders in javascript to handle that. we send to it the data using a 
+
+command in java script Mustach.render(the id or class of the tag which contains 
+
+mustache).
+
+Some specialists call Mustache library a logicless library because it contains no for loops or if statements. 
 
 
-It is often referred to as “logic-less” because there are no if statements, else clauses, or for loops. Instead, there are only tags. Some tags are replaced with a value, some nothing, and others a series of values.
+
+
+
 mustache.js is an implementation of the mustache template system in JavaScript. It is often considered the base for JavaScript templating. And, since mustache supports various languages, we don’t need a separate templating system on the server side.
 
+we apply Mustache inside html  using this form: 
 
 
-Mustache.render(“Hello, {{name}}”, { name: “Sherlynn” });
+`Mustache.render (“Hello, {{name}}”, { name: “Sherlynn” });`
+
 // returns: Hello, Sherlynn
 
-In the above, we see two braces around {{ name }}. This is Mustache syntax to show that it is a placeholder. When Mustache compiles this, it will look for the ‘name’ property in the object we pass in, and replace {{ name }} with the actual value, e,g, “Sherlynn”.
+In the statement above , we see two braces around {{ name }}. This is Mustache syntax to show that it is a placeholder. When Mustache compiles this, it will look for the ‘name’ property in the object we pass in, and replace {{ name }} with the actual value, e,g, “Sherlynn”.
 
 
-A confusion that I have initially was that Mustache is a templating engine. However, after some googling, I’ve come to learn that Mustache is NOT a templating engine. Mustache is a specification for a templating language. In general, we would write templates according to the Mustache specification, and it can then be compiled by a templating engine to be rendered to create an output.
 
 ![mustach](images/mustach.png)
-
-
-
-
 
 
 
